@@ -1,6 +1,6 @@
 # speechapp
 
-A new Flutter application.
+Sample app for speech2text widget demo
 
 ## Getting Started
 
